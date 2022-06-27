@@ -6,17 +6,10 @@ public class remove_duplicates {
     for (int i = 0; i < nums.length; i++) {
         if (nums[i] > cur) {
             cur = nums[i];
-            swap(nums, k, i);
+            nums[k] = nums[i];
             k++;
         }
     }
     return k;
-}
-
-private void swap(int[] nums, int a, int b) {
-    int temp;
-    temp = nums[a];
-    nums[a] = nums[b];
-    nums[b] = temp;
 }
 }
