@@ -11,5 +11,5 @@ public class find_pivot_index {
         left += nums[i];
     }
     return -1;
-}
+  }
 }
