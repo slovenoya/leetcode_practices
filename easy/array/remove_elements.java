@@ -1,4 +1,4 @@
-package easy;
+package easy.array;
 
 public class remove_elements {
   public int removeElement(int[] nums, int val) {

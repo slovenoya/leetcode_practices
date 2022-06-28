@@ -1,4 +1,4 @@
-package easy;
+package easy.array;
 
 public class find_pivot_index {
   public int pivotIndex(int[] nums) {
