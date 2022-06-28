@@ -11,5 +11,5 @@ public class remove_duplicates {
         }
     }
     return k;
-}
+  }
 }
