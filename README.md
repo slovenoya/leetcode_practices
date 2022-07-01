@@ -5,3 +5,4 @@ Format:
   2. first thought of what type of solution I think of 
   3. implementation
   4. compare with other answers
+  5. easy answers no explaination. 
